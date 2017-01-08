@@ -1,2 +1,0 @@
-# gamethon
-A pygame wrapper
